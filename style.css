@@ -1,0 +1,121 @@
+                        h2{
+                            font-size: 30px;
+                        }
+                        h1{
+                            font-size: 40px;
+                        }
+
+                        body{
+                            font-family: 'Poppins', sans-serif;
+                            margin: 0;
+                            box-sizing: border-box;
+
+                        }
+
+                        .name-highlight{
+                            color: rgb(233, 59, 111);
+                        }
+
+                        .half-width{
+                            width: 40%;
+                            float: left;
+                            margin-left: 6%;
+                            padding-left: 2%;
+                        }
+
+                        .half-width img{
+                            width: 100%;
+                        } 
+
+                        .header{
+                            background-image: url(images/header-bg.png);
+                            background-repeat: no-repeat;
+                        }
+                        section{
+                            height: 500px;
+                            padding-bottom: 220px;
+                            background-position: center;
+                            background-size: inherit;
+                        }
+                        .link-button{
+                            text-decoration: none;
+                            background-color: #e9456f;
+                            padding: 10px 20px;
+                            border-radius: 5px;
+                            color: white;
+                            font-weight: 800;
+                            background-image: linear-gradient(90deg,tomato,#e9456f  );
+                        }
+
+                        .dream-area{
+                            background-image: url(images/biography-bg.png);
+                            
+                        }
+
+                        #latest-works{
+                            text-align: center;
+                            font-size: 35px;
+                        }
+                    .latestwork{
+                        background-image: url(images/latest-work-bg.png);
+                    }
+                    .column{
+                    float: left;
+                    width: 33.33%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding-top: 10px;
+                    }
+        .footer{
+            background-image: url(images/footer-bg.png);
+        }
+        .heading{
+            font-size: 40px;
+            text-align: center;
+        }
+
+        .bruce{
+            font-weight: 400;
+            text-align: center;
+            padding-top: 40px;
+        }
+
+        .footer-paragraph{
+            text-align: center;
+            padding: 3%;
+            font-weight: 800;
+        }
+
+
+
+        .button{
+
+        
+            text-align: center;
+            background: rgb(233, 59, 111);
+            border-style: none;
+            border-radius: 30px;
+            width: 450px;
+            height: 40px;
+            margin: auto;
+            padding: 60px;
+            text-transform: lowercase;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-style: oblique;
+        }    
+
+        
+        
+
+
+
+        .hero{
+            text-align: center;
+            padding: 25%;
+            font-weight: 300;
+            font-size: 12px;
+        }
+
+
+       
