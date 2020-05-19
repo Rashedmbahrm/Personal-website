@@ -117,5 +117,17 @@
             font-size: 12px;
         }
 
+    
+        #email{
+            text-align: center;
+            text-decoration: none;
+            color: whitesmoke;
+            font-family: sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 15px;
+        }
+                
+
 
        
